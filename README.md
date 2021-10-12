@@ -1,9 +1,9 @@
 # Restaurant-React
-MealsGoTo
+##MealsGoTo<br>
 
-Build	Branch
-Full Build	master
-Setting up full build
-Go to functions folder
-Run yarn
-Run the Expo app
+Build	Branch<br>
+Full Build	master<br>
+Setting up full build<br>
+Go to functions folder<br>
+Run yarn<br>
+Run the Expo app<br>
